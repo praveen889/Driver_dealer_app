@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Aditya",
+      "state": "Uttar Pradesh",
+      "city": "Agra",
+      "route": "Route A"
+    },
+    {
+      "id": 2,
+      "name": "Shivam",
+      "state": "Uttar Pradesh",
+      "city": "Gtreater Noida",
+      "route": "Route B"
+    },
+    {
+      "id": 3,
+      "name": "Saurabh",
+      "state": "Bihar",
+      "city": "Patna",
+      "route": "Route C"
+    },
+    {
+      "id": 4,
+      "name": "Prabhakar",
+      "state": "Bihar",
+      "city": "Muzaffarpur",
+      "route": "Route D"
+    }
+  ]
+  
